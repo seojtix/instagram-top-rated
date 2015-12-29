@@ -1,0 +1,7 @@
+composer.json
+composer.lock
+.vagrant
+Homestead.yaml
+Vagrantfile
+vendor
+public/vendor
