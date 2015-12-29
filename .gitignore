@@ -5,3 +5,4 @@ Homestead.yaml
 Vagrantfile
 vendor
 public/vendor
+public/css/style.css
